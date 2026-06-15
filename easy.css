@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 500px;
+    width: 90%;
+  background-image: url(./india.avif);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 20px;
+}
+
+h1,h2,h3{
+    text-align: center;
+   color: black;
+}
+.bal{
+    height: 270px;
+    display: flex;
+}
+.top{
+    height: 390px;
+}
+.lin{
+    height: 1px;
+    width: 1px;
+}
+.page-item{
+    width: 20px;
+    height: 1px;
+}

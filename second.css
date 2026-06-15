@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 550px;
+    width: 90%;
+  background-image: url(./india.avif);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 20px;
+}
+
+h1,h2,h3{
+    text-align: center;
+   
+}
+.bal,.ball{
+    height: 280px;
+    display: flex;
+}
+.top{
+    height: 60px;
+}
+.page-item{
+    width: 20px;
+    height: 1px;
+}
